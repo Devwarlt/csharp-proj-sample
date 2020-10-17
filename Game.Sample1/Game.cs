@@ -5,7 +5,7 @@ using System.Linq;
 using System.Numerics;
 using System.Threading;
 
-namespace Game.Sample
+namespace Game.Sample1
 {
     public sealed class Game
     {
